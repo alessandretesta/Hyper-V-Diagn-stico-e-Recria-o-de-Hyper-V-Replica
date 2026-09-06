@@ -173,3 +173,4 @@ Importante: Acesse fisicamente o repositório de dados e remova a pasta de disco
 Refazer: Execute os comandos descritos no subitem 3.4 novamente.
 ---
 Este documento serve como a base de operação e guia de governança do seu ambiente virtualizado Hyper-V. Utilize os exemplos fornecidos de forma modular no seu laboratório ou infraestrutura de rede corporativa!
+https://notebook.google.com/notebook/e60026e0-06e1-41dd-ac3d-fe031e3e97d8
